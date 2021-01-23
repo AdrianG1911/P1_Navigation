@@ -21,7 +21,13 @@ Download the environment from one of the links below.  You need only select the 
 - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
 - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
 - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+Unzip the file to get the banana environment.
 
 **Running the code**
-To run the code put all the files in the same folder and open Navigation.ipynb with jupyter notebook. 
-`` `` 
+To run the code put all the files in the same folder and open Navigation.ipynb with jupyter notebook. Follow the instructions to load the environment.
+
+In order to train and save a new model: First run the **Neural Network** code, the **Agent and Learning Algorithm** code and then the **Training** code, once the agent solves the environment save the weights using the **Save Model Weights** code, change the name of the pth file to save multiple different models. 
+
+In order to load the model weights first run the **Neural Network** and **Agent and Learning Algorithm** if they have not already been run, after run the **Load Saved Model Weights** code.
+
+To watch the agent in real time: run the **Watch Trained Agent** code. 
