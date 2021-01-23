@@ -1,6 +1,6 @@
 # P1_Navigation
 
-[GIF](Agent Collecting Bananas)
+[GIF](Agent Collecting Bananas.gif)
 
 
 ## Project Details
