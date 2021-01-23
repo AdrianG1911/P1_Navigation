@@ -9,7 +9,11 @@ The state space has 37 dimensions including the agents velocity and a ray based 
 
 ## Downloading Dependencies
 
-**Jupyter Notebook** is needed to open the Navigation.ipynb file. To get Jupyter Notebook download [Anaconda](https://www.anaconda.com/products/individual). Install it then open the command line and input `conda install -c conda-forge notebook` after installing Jupyter Notebook can be opened by inputing `jupyter notebook` in the command line. 
+**Jupyter Notebook** is needed to open the Navigation.ipynb file. To get Jupyter Notebook download [Anaconda](https://www.anaconda.com/products/individual). Install it then open the command line and input 
+`conda install -c conda-forge notebook` 
+after installing Jupyter Notebook can be opened by inputing 
+`jupyter notebook` 
+in the command line. 
 
 **Pytorch** can be installed by going to their [site](https://pytorch.org/), choosing the stable version and the platform you are using then typing the given command in the command line.
 
