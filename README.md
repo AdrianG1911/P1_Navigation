@@ -1,11 +1,6 @@
 # P1_Navigation
 
-
-
-
-
-
-
+![Agent Collecting Bananas](gif)
 
 
 ## Project Details
