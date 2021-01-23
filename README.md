@@ -23,6 +23,9 @@ Download the environment from one of the links below.  You need only select the 
 - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 Unzip the file to get the banana environment.
 
+
+## Instructions
+
 **Running the code**
 To run the code put all the files in the same folder and open Navigation.ipynb with jupyter notebook. Follow the instructions to load the environment.
 
