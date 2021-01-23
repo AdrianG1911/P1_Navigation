@@ -1,5 +1,13 @@
 # P1_Navigation
 
+
+
+
+
+
+
+
+
 ## Project Details
 
 In this environment the agent moves around a square space and gets +1 reward for collecting yellow bananas and -1 reward for collecting blue bananas, so the goal of the agent is to collect as many yellow bananas and avoid blue bananas in a limited amount of time.
