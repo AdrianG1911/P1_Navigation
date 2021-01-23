@@ -15,7 +15,7 @@ The state space has 37 dimensions including the agents velocity and a ray based 
 
 *Unity mlagents* can be installed by `inputing pip3 install torch==1.7.0 -f https://download.pytorch.org/whl/torch_stable.html` in the command line
 
-*The evironment*
+*The Environment*
 Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
