@@ -5,7 +5,7 @@ The network has an input size of 37 and an output size of 4, it has 2 hidden lay
 
 
 ```python
-# Make neural network
+# Neural Network
 
 class QNetwork(nn.Module):
     """Actor (Policy) Model."""
@@ -47,7 +47,7 @@ The target network is slowely updated with TAU to resemble the local network but
 
 
 ```python
-# Make agent that can learn
+# Learning Algorithm
 
 BUFFER_SIZE = int(1e5)  # replay buffer size
 BATCH_SIZE = 64         # minibatch size
@@ -217,7 +217,7 @@ The agent achieved an average score of 13.06 over 100 episodes from episode 402 
 
 
 ```python
-# Used For training model
+# Train Agent
 env_info = env.reset(train_mode=True)[brain_name]
 
 def dqn(n_episodes=2000, max_t=1000, eps_start=1.0, eps_end=0.01, eps_decay=0.995):
