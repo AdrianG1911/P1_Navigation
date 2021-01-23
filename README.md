@@ -39,4 +39,5 @@ In order to load the model first run the **Neural Network** and **Agent and Lear
 To watch the agent in real time: run the **Watch Trained Agent** code. 
 
 Here is a gif of a trained agent.
+
 ![gif](nana.gif)
