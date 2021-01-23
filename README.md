@@ -9,9 +9,10 @@ The state space has 37 dimensions including the agents velocity and a ray based 
 
 ## Downloading Dependencies
 
-Jupyter Notebook is needed to open the Navigation.ipynb file. To get Jupyter Notebook download Anaconda from [here](https://www.anaconda.com/products/individual). Install it then open the terminal and type 
+Jupyter Notebook is needed to open the Navigation.ipynb file. To get Jupyter Notebook download Anaconda from [here](https://www.anaconda.com/products/individual). Install it then open the command line and input`conda install -c conda-forge notebook` 
 https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
 
 
-I think you should use an
-`<addr>` element here instead.
+
+
+`` `` 
