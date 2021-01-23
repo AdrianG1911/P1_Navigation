@@ -1,8 +1,5 @@
 # P1_Navigation
 
-![gif](nana.gif)
-
-
 ## Project Details
 
 In this environment the agent moves around a square space and gets +1 reward for collecting yellow bananas and -1 reward for collecting blue bananas, so the goal of the agent is to collect as many yellow bananas and avoid blue bananas in a limited amount of time.
@@ -40,3 +37,7 @@ In order to train and save a new model: first run the **Neural Network** code, t
 In order to load the model first run the **Neural Network** and **Agent and Learning Algorithm** if they have not already been run, after run the **Load Saved Model Weights** code. Change the name of the pth file to load different models.
 
 To watch the agent in real time: run the **Watch Trained Agent** code. 
+
+
+![gif](nana.gif)
+Here is a gif of a trained agent.
