@@ -28,6 +28,7 @@ Unzip the file to get the banana environment.
 ## Instructions
 
 **Running the code**
+
 To run the code put all the files in the same folder and open Navigation.ipynb with jupyter notebook. Follow the instructions to load the environment.
 
 In order to train and save a new model: First run the **Neural Network** code, the **Agent and Learning Algorithm** code and then the **Training** code, once the agent solves the environment save the weights using the **Save Model Weights** code, change the name of the pth file to save multiple different models. 
